@@ -1,0 +1,131 @@
+@media screen and (max-width:600px){
+    .page0{
+        height: 10%;
+    }
+    .page0 h1{
+        font-size: 35px;
+    }
+    .page02{
+        display: none;
+    }
+    .page1{
+        background-image: url(https://i.pinimg.com/736x/18/cf/3b/18cf3b019a29b721c02b306024f3637b.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .p11{
+        justify-content:center;
+        gap: 6%;
+    }
+    .p11 h1{
+        font-size: 37px;
+    }
+    .p11 button{
+        padding: 2% 3%;
+    }
+    .page2{
+        width: 100%;
+        height: 300%;
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-bottom: 4%;
+        padding-top: 4%;
+        background-color: white;
+    }
+    .up2{
+        height: 8%;
+    }
+    
+    .up2 h1{
+        font-size: 30px;
+    }
+    .down2{
+        width: 100%;
+        height: 92%;
+        flex-direction: column;
+        
+    }
+    .d21{
+        width: 100%;
+        height: 50%;
+        
+        justify-content:center;
+        gap: 3%;
+        
+    }
+    .d21 h3{
+        font-weight: 500;
+        font-size: 18px;
+    }
+    .page3{
+    }
+    
+    .p31{
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0,0,0.3);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2%;
+        justify-content: center;
+        color: white;
+    
+    
+    }
+    .p31 h1{
+        font-size: 30px;
+    }
+    .p31 button{
+        padding: 1.5% 2%;
+        font-weight: 600;
+    }
+    
+   
+    .page5{
+        height: 80%;
+       
+        background-position: right;
+    }
+    .page6{
+        height: 80%;
+    }
+    .page7{
+        height: 80%;
+    }
+    .page8{
+        width: 100%;
+        height: 200%;
+        padding: 0% 8%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-color: black;
+        margin-top: 0%;
+        border-top: solid white 0.2mm;
+    }
+    .page8 h1{
+        height: 5%;
+        
+    }
+    .p81{
+        width: 100%;
+        height: 90%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+
+        
+    }
+    .p811{
+        width: 100%;
+        height: 30%;
+        text-align: center;   
+    }
+    
+    .p82{
+       display: none;
+    }
+    
+}

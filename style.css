@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "Roboto";
+    background-color: black;
+}
+.page0{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    border-top: solid black 0.25cm;
+    border-bottom: solid black 0.2mm ;
+    background-color: white;
+}
+.page01{
+    width: 100%;
+    height: 60%;
+    padding-top: 1%;
+}
+.page01 h1{
+    font-size: 42px;
+}
+.page02{
+    width: 100%;
+    height: 40%;
+    padding: 0% 4%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.page02 a{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+
+}
+.page1{
+    width: 100%;
+    height:80%;
+    background-image: url(https://www.chanel.com/puls-img/c_limit,w_1920/c_crop,w_1917,h_986,x_3,y_0/q_auto:good,dpr_auto,f_auto/1733482136330-homepagecorpoonedesktop18jpg_2510x5760.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p11{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0,0,0.2);
+    padding: 12% 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.p11 h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 5px 5px black;
+}
+.p11 button{
+    padding: 1.5% 2%;
+    background-color: white;
+    border: none;
+    font-weight: 600;
+}
+.page2{
+    width: 100%;
+    height: 95%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    background-color: white;
+}
+.up2{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.up2 h1{
+    font-size: 40px;
+    font-weight: 300;
+}
+.down2{
+    width: 100%;
+    height: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.d21{
+    width: 23%;
+    height: 80%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 1%;
+    align-items: center;
+}
+.d21 h3{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.page3{
+    width: 100%;
+    height: 70%;
+    background-image: url(https://www.chanel.com/puls-img/c_limit,w_1920/q_auto:good,dpr_auto,f_auto/1736766908673-onehpcorpoprelaunchslidingherodesktop2880x1260px011jpg_1260x2880.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.p31{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2%;
+    justify-content: center;
+    color: white;
+
+
+}
+.p31 h3{
+    font-size: 16px;
+}
+.p31 h1{
+    font-size: 40px;
+}
+.p31 button{
+    font-size: 16px;
+    padding: 1% 1.5%;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+}
+
+.page4{
+    width: 100%;
+    height: 80%;
+    background-image: url(https://www.chanel.com/puls-img/c_limit,w_1920/q_auto:good,dpr_auto,f_auto/1732712528486-onehpcorpodslidinghero2880x1260px3jpg_1260x2880.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page5{
+    width: 100%;
+    height: 70%;
+    background-image: url(https://www.chanel.com/puls-img/c_limit,w_1920/q_auto:good,dpr_auto,f_auto/1735916239716-egeryp1jpg_1260x2880.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page6{
+    width: 100%;
+    height: 75%;
+    background-image: url(https://www.chanel.com/puls-img/c_limit,w_1920/q_auto:good,dpr_auto,f_auto/1705585371482-hpcorpoforalldesktopjpg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page7{
+    width: 100%;
+    height: 70%;
+    background-image: url(https://www.chanel.com/puls-img/c_limit,w_1920/q_auto:good,dpr_auto,f_auto/1719420503461-homepagecorpoonedesktop2880x1255jpg_6275x14400.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page8{
+    width: 100%;
+    height: 90%;
+    padding: 0% 8%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: black;
+    margin-top: 8%;
+    border-top: solid white 0.2mm;
+}
+.page8 h1{
+    height: 15%;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.p81{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.p811{
+    width: 23%;
+    height: 80%;
+    text-align: center;
+    padding-top: 2%;
+    
+}
+.p811 h3{
+    color: white;
+    font-size: 14px;
+}
+.p811 p{
+    margin-top: 3%;
+    font-size: 13px;
+    color: rgb(188, 188, 188);
+}
+.p82{
+    width: 100%;
+    height: 10%;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: solid white 0.2mm;
+}
+.p82 p{
+    font-size: 12px;
+}
+.icon{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon i{
+    font-size: 20px;
+}
